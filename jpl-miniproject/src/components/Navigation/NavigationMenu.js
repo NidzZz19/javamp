@@ -62,5 +62,10 @@ export const navigationMenu = [
     icon: <PendingIcon />,
     path: "/more",
   },
- 
+  // hello nidhish 
+  {
+    title:"down",
+    icon:<react/>,
+    path: "/down"
+  }
 ];
