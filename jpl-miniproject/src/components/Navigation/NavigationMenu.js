@@ -62,4 +62,9 @@ export const navigationMenu = [
     icon: <PendingIcon />,
     path: "/more",
   },
+  {
+    title: "Profile",
+    icon: <AccountCircleIcon />,
+    path: "/profile",
+  },
 ];
